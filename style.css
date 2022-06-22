@@ -1,0 +1,9 @@
+#title {
+    color: #ffffff;
+    font-family: "Perpetua";
+    text-align: center;
+    font-size: 80%;
+    width: 700px;
+    height: 100px;
+    background-image: linear-gradient(red, yellow);
+}
